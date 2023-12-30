@@ -1,4 +1,7 @@
 /* здесь используйте глобальные переменные */
+
+//Цвета
+
 $apple:                 #68b738;
 // $lighten-apple:           lighten($apple, 30%);
 $color-default-black:   #000000;
@@ -8,3 +11,13 @@ $charcoal:              #444444;
 $gainsboro:             #d9d9d9;
 $white-smoke:           #f2f2f2;
 $nero:                  #222222;
+
+//Шрифты
+
+$primary-font: "Oswald", "Arial", sans-serif;
+$secondary-font: "Lato", "Arial", sans-serif;
+
+//Размеры вьюпортов
+
+$tablet-width: 768px;
+$desktop-width: 1440px;
